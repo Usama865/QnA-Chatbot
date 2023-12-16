@@ -1,0 +1,23 @@
+
+**These Are the sample questions which you can use to evaluate the perfomance of Chatbot.**
+
+NOTE: You can also use your own generated questions, but context of your question should be relevent to the provided sample questiions
+
+
+1. Can individuals with no prior programming experience enroll in this bootcamp?
+2. What makes Codebasics a trustworthy choice for a bootcamp?
+3. Are there any prerequisites for participating in this bootcamp?
+4. What types of datasets are utilized in this bootcamp? Are they real-world scenarios or toy datasets?
+5. If I'm uncertain about the bootcamp's suitability for my investment, what options are available to assess its quality?
+6. How can I get in touch with instructors for assistance or to address any doubts during the bootcamp?
+7. What happens if I find that the bootcamp doesn't meet my expectations?
+8. Is there lifetime access provided for the course content in this bootcamp?
+9. What is the duration of the bootcamp, and how long does it last?
+10. Can I manage attending this bootcamp while working full-time?
+11. What skills can I anticipate learning from this bootcamp?
+12. Does the bootcamp offer any job assistance or support in career placement?
+13. Is this bootcamp sufficient for gaining proficiency in Microsoft Power BI and Excel certifications?
+14. Are there options for EMI (Equated Monthly Installments) to pay for the bootcamp?
+15. Does the bootcamp provide opportunities for virtual internships?
+16. Can the completion of this bootcamp guarantee job placement?
+17. If I have no knowledge of Excel and come from a non-technical background, can I still enroll in this course?
